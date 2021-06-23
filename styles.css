@@ -10,4 +10,17 @@ body {
 
 .card {
     color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.card-button-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: none;
 }
