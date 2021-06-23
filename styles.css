@@ -2,3 +2,12 @@ body {
     background-color: #0E0E34;
     color: white;
 }
+
+.card-img-top {
+    height: 100px;
+    width: 200px;
+}
+
+.card {
+    color: black;
+}
