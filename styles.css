@@ -24,4 +24,9 @@ body {
 a:hover {
     font-weight: bold;
     text-decoration: none;
+    color: orangered;
+}
+
+a {
+    color: orangered;
 }
