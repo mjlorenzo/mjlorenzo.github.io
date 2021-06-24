@@ -10,6 +10,7 @@ body {
 
 .card {
     color: black;
+    font-family: 'Hind';
     padding: 5px;
     margin: 5px;
 }
